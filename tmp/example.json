@@ -1,0 +1,11 @@
+{
+    "adres": "Magistracka 24",
+    "pomieszczenia": {
+        "liczba": 4,
+        "pokoje": [
+            {"nazwa": "pokój Michała"},
+            {"nazwa": "pokój lokatora"}
+        ],
+        "kuchnia": 1
+    }
+}
