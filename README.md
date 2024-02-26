@@ -12,7 +12,7 @@ https://docs.python.org/3/library/venv.html
 
 ## Install requirements
 ```shell
-pip install requirements.txt 
+pip install -r requirements.txt 
 ```
 
 ## Run script
